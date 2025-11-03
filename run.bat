@@ -1,0 +1,2 @@
+python SEMLHI.py
+pause
